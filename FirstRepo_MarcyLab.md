@@ -15,7 +15,7 @@ projects in the future!
 - 👍🏽 I have a hitchhikers thumb.
 
 ## Check This Out!
-![My 'image'](![dummy](https://github.com/user-attachments/assets/68325671-6dc3-4390-a72d-66a7b2733fde))
+![My 'image'](https://github.com/user-attachments/assets/68325671-6dc3-4390-a72d-66a7b2733fde)
 
 
 
