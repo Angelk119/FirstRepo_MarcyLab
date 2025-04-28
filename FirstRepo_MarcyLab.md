@@ -15,8 +15,9 @@ projects in the future!
 - 👍🏽 I have a hitchhikers thumb.
 
 ## Check This Out!
-![My 'image'](![DD9CDA99-DC28-490F-A487-DCE7DCCF2CE8_1_102_o](https://github.com/user-attachments/assets/2322ac0f-6dbe-4a45-9a52-a0bd3de36196)
-)
+![My 'image'](![dummy](https://github.com/user-attachments/assets/68325671-6dc3-4390-a72d-66a7b2733fde))
+
+
 
 ## Check This Out!
 Visit my favorite website: [SpaceJam](https://www.spacejam.com/1996/)
